@@ -1,4 +1,4 @@
-Cross-Domain Ensemble Distillation <br> for Domain Generalization (ECCV 2022)
+# Cross-Domain Ensemble Distillation for Domain Generalization (ECCV 2022)
 
 Official PyTorch implementation of "Cross-Domain Ensemble Distillation for Domain Generalization" (ECCV 2022)
 

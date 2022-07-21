@@ -1,6 +1,5 @@
-<div align="center">
-  <h1>Cross-Domain Ensemble Distillation <br> for Domain Generalization <br> (ECCV 2022)</h1>
-</div>
+Cross-Domain Ensemble Distillation <br> for Domain Generalization (ECCV 2022)
+
 Official PyTorch implementation of "Cross-Domain Ensemble Distillation for Domain Generalization" (ECCV 2022)
 
 Code will be available as soon as possible.

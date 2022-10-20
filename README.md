@@ -2,7 +2,7 @@
 
 Official PyTorch implementation of "Cross-Domain Ensemble Distillation for Domain Generalization" (ECCV 2022)
 
-For more information, please checkout our [website](https://github.com/leekyungmoon/XDED) and [paper](https://github.com/leekyungmoon/XDED).
+For more information, please checkout our [website](https://github.com/leekyungmoon/XDED) and [paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136850001.pdf).
 
 <!---
 Code will be available as soon as possible.

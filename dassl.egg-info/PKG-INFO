@@ -1,0 +1,50 @@
+Metadata-Version: 2.1
+Name: dassl
+Version: 0.1.9
+Summary: Dassl: Domain adaptation and semi-supervised learning
+Home-page: https://github.com/KaiyangZhou/Dassl.pytorch
+Author: Kaiyang Zhou
+License: MIT
+Keywords: Domain Adaptation,Domain Generalization,Semi-Supervised Learning,Pytorch
+Platform: UNKNOWN
+License-File: LICENSE
+
+# XDED
+
+## Get started
+
+### Installation
+
+Make sure [conda](https://www.anaconda.com/distribution/) is installed properly.
+
+```bash
+
+# Create a conda environment
+conda create -n xded python=3.7
+
+# Activate the environment
+conda activate xded
+
+# Install dependencies
+pip install -r requirements.txt
+
+# Install torch and torchvision (select a version that suits your machine)
+conda install pytorch torchvision cudatoolkit=10.1 -c pytorch
+
+# Install this library (no need to re-build if the source code is modified)
+python setup.py develop
+```
+
+Follow the instructions in [DATASETS.md](./DATASETS.md) to preprocess the datasets.
+
+### Train & Test
+
+Below we provide an example for training a model incorporated our framework on the PACS dataset.
+
+```bash
+python pacs_art_train.py --gpu-id 0 \
+--IPC 16 --dataset-config-file configs/datasets/domain_ipc_pacs.yaml --config-file configs/xded_defeault.yaml \
+--trainer XDED --remark XDED_UniStyle12 \
+MODEL.BACKBONE.NAME resnet18_UniStyle_12
+
+

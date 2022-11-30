@@ -8,8 +8,9 @@ For more information, please checkout our [website](https://github.com/leekyungm
 Code will be available as soon as possible.
 --->
 
-[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/cross-domain-ensemble-distillation-for-domain-1/domain-generalization-on-pacs-2)](https://paperswithcode.com/sota/domain-generalization-on-pacs-2?p=cross-domain-ensemble-distillation-for-domain-1)
-[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/cross-domain-ensemble-distillation-for-domain-1/domain-generalization-on-office-home)](https://paperswithcode.com/sota/domain-generalization-on-office-home?p=cross-domain-ensemble-distillation-for-domain-1)
+	
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/cross-domain-ensemble-distillation-for-domain/domain-generalization-on-pacs-2)](https://paperswithcode.com/sota/domain-generalization-on-pacs-2?p=cross-domain-ensemble-distillation-for-domain)
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/cross-domain-ensemble-distillation-for-domain/domain-generalization-on-office-home)](https://paperswithcode.com/sota/domain-generalization-on-office-home?p=cross-domain-ensemble-distillation-for-domain)
 
 ## Get started
 ### Prepare environment

@@ -35,7 +35,7 @@ Our code is based on [Dassl.pytorch](https://github.com/KaiyangZhou/Dassl.pytorc
 In case of using this source code for your research, please cite our paper.
 
 ```
-@inproceedings{lee2022xded,
+@inproceedings{lee2022cross,
   title={Cross-Domain Ensemble Distillation for Domain Generalization},
   author={Lee, Kyungmoon and Kim, Sungyeon and Kwak, Suha},
   booktitle={Proceedings of European Conference on Computer Vision (ECCV)},

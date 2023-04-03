@@ -12,7 +12,7 @@ Code will be available as soon as possible.
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/cross-domain-ensemble-distillation-for-domain/domain-generalization-on-pacs-2)](https://paperswithcode.com/sota/domain-generalization-on-pacs-2?p=cross-domain-ensemble-distillation-for-domain)
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/cross-domain-ensemble-distillation-for-domain/domain-generalization-on-office-home)](https://paperswithcode.com/sota/domain-generalization-on-office-home?p=cross-domain-ensemble-distillation-for-domain)
 
-<a href="url" >:arrow_right:</a> We remark that, when with ResNet-18 for a fair comparison, our approach ranks the second and first place in the leaderboard of paperwithcode for PACS and OfficeHome, respectively. (23.04.02)
+<a href="url" >:arrow_right:</a> We remark that, when with ResNet-18 for a fair comparison, our approach ranks the second and first place in the leaderboard of paperwithcode for PACS and OfficeHome, respectively. (updated at 23.04.02)
 
 ## Get started
 ### Prepare environment

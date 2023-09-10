@@ -76,7 +76,7 @@ dependencies:
     - filelock==3.8.0
     - flake8==5.0.4
     - future==0.18.2
-    - gdown==4.5.3
+    - gdown==4.7.1
     - google-auth==2.14.0
     - google-auth-oauthlib==0.4.6
     - greenlet==2.0.0

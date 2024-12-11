@@ -32,6 +32,10 @@ MODEL.BACKBONE.NAME resnet18_UniStyle_12
 ## Acknowledgements
 Our code is based on [Dassl.pytorch](https://github.com/KaiyangZhou/Dassl.pytorch). We thank [Kaiyang Zhou](https://kaiyangzhou.github.io/) for this great repository.
 
+## Contact
+If you have any questions, feedback, or suggestions regarding this repository, feel free to reach out at **leekm8474@gmail.com** or **kyungmoon@postech.ac.kr**. I’ll be happy to help!
+
+
 
 ## Citation
 In case of using this source code for your research, please cite our paper.
